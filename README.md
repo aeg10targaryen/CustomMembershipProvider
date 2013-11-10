@@ -1,4 +1,4 @@
-CodeFirstMembership
+Full Custom Membership and Role Provider
 ===================
 
-Asp.Net MVC 4 Code First Migrations  + Membership Provider
+Advenced user and role provider.
